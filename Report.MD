@@ -1,4 +1,4 @@
-In this Week 4 project, I focused on cleaning and validating the supply chain dataset. This week was all about detecting missing values, duplicates, formatting inconsistencies, and logical errors — then applying fixes to make the dataset reliable for analysis.
+In this Week 4 project, I focused on cleaning and validating the supply chain dataset. This week was all about detecting missing values, duplicates, formatting inconsistencies, and logical errors, then applying fixes to make the dataset reliable for analysis.
 
 ![My Image Description](https://github.com/R887645/TDI-Python-Learning-Week-4-Project-/blob/main/Intro.png?raw=true)
 
@@ -36,7 +36,7 @@ Extra Challenges
 
 
 Reflection
-This project made me realize that clean data is the foundation of all analysis. Seeing the dataset improve from messy and inconsistent to structured and reliable was the most impactful part. I now understand why analysts spend most of their time cleaning data — it’s what makes analysis meaningful.
+This project made me realize that clean data is the foundation of all analysis. Seeing the dataset improve from messy and inconsistent to structured and reliable was the most impactful part. I now understand why analysts spend most of their time cleaning data, it’s what makes analysis meaningful.
 
 [View My week 4 full project here](https://github.com/R887645/TDI-Python-Learning-Week-4-Project-/blob/main/Week4_PersonalDataOrganizer%20(1).ipynb)
 
