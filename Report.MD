@@ -38,7 +38,7 @@ Extra Challenges
 Reflection
 This project made me realize that clean data is the foundation of all analysis. Seeing the dataset improve from messy and inconsistent to structured and reliable was the most impactful part. I now understand why analysts spend most of their time cleaning data, it’s what makes analysis meaningful.
 
-[View My week 4 full project here](https://github.com/R887645/TDI-Python-Learning-Week-4-Project-/blob/main/Week4_PersonalDataOrganizer%20(1).ipynb)
+[View My week 4 full project here](https://github.com/R887645/TDI-Python-Learning-Week-4-Project-/blob/main/Week4_PersonalDataOrganizer%20(2).ipynb)
 
 Next Week
 In Week 5, I’ll move on to NumPy fundamentals and start applying numerical analysis to the supply chain dataset.
